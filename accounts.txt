@@ -1,0 +1,3 @@
+Ralph,1509,5010989.00,savings
+Afobz,1509,2093.75,checking
+Ekenna,1509,120630.15,savings

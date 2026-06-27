@@ -1,0 +1,6 @@
+file = open("brodie.txt", 'w')
+file.write("my name is bado brodie sneh")
+file.close()
+file = open("brodie.txt", 'r')
+content = file.read()
+print(content)

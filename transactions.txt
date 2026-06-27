@@ -1,0 +1,17 @@
+ATM transaction log
+Afobz,Checking,deposit,100.00,175.00
+Afobz,Checking,withdraw,160.00,15.00
+Afobz,Checking,deposit,60.00,75.00
+Afobz,Checking,deposit,2000.00,2075.00
+Afobz,Checking,interest,2.08,2077.07
+Afobz,Checking,interest,2.08,2079.15
+Afobz,Checking,interest,2.08,2081.23
+Afobz,Checking,interest,2.08,2083.31
+Afobz,Checking,interest,2.08,2085.40
+Afobz,Checking,interest,2.09,2087.48
+Afobz,Checking,interest,2.09,2089.57
+Afobz,Checking,interest,2.09,2091.66
+Afobz,Checking,interest,2.09,2093.75
+Ralph,Savings,deposit,10989.00,5010989.00
+Ekenna,Savings,deposit,30.00,120030.00
+Ekenna,Savings,interest,600.15,120630.15
