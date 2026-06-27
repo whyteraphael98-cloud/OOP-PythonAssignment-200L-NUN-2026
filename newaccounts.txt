@@ -1,3 +1,0 @@
-Ralph,1509,1200000.00,savings
-Afobs,1509,14.00,checking
-Ekenna,1509,1230.00,savings
